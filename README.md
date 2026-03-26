@@ -12,14 +12,17 @@ Note that the exact appearance may vary slightly depending on revisions or updat
 
 Further updates, refinements, and additional files may be added over time as the project evolves.
 
-Lower_Body-Structure:
-<img width="1000" height="792" alt="Lowerbody" src="https://github.com/user-attachments/assets/dc225dc1-d2f2-4c86-b440-4b1d3ab72397" />
+**Lower_Body-Structure**:
+
+<img width="700" height="555" alt="Lowerbody" src="https://github.com/user-attachments/assets/dc225dc1-d2f2-4c86-b440-4b1d3ab72397" />
 
 [Waveshare UGV-Suspension](https://www.waveshare.com/wiki/UGV_Suspension_(A)):
-<img width="1000" height="883" alt="Waveshare_Suspension" src="https://github.com/user-attachments/assets/167d4213-5d03-4482-a3f2-472adbbdbb28" />
 
-Upper_Body-Structure:
-<img width="1000" height="662" alt="Upperbody" src="https://github.com/user-attachments/assets/8d4b1d3f-6975-43ff-9635-82144e072d5e" />
+<img width="700" height="525" alt="Waveshare_Suspension" src="https://github.com/user-attachments/assets/167d4213-5d03-4482-a3f2-472adbbdbb28" />
+
+**Upper_Body-Structure**:
+
+<img width="700" height="618" alt="Upperbody" src="https://github.com/user-attachments/assets/8d4b1d3f-6975-43ff-9635-82144e072d5e" />
 
 
 

@@ -102,3 +102,9 @@ This setup allows the robot to detect and interact with objects in close proximi
 ### servo bus mount
 
 ## PCBs
+
+| Name | Beschreibung | Status |
+|---|---|---|
+| Idefix | Quadruped-Roboter | in Arbeit |
+| N10 | Rover | getestet |
+| Quac | Crawler | geplant |

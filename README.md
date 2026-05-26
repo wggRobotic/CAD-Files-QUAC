@@ -1,4 +1,4 @@
-This repository is going to contain all CAD files related to the QUAC robot project. The files are primarily provided in standard formats such as .STEP, making them compatible with most CAD software and easy to modify if needed.
+This repository contains (or will contain) all CAD files related to the QUAC robot project. The files are primarily provided in standard formats such as .STEP, making them compatible with most CAD software and easy to modify if needed.
 
 In addition to 3D-printable components, the repository may also include parts that are not intended for 3D printing (e.g. aluminium profiles, servos and motors, or other external parts). Please refer to the file names and context to distinguish between printable and non-printable elements.
 
@@ -15,7 +15,7 @@ Further updates, refinements, and additional files may be added over time as the
 
 <br><br>
 
-**Lower_Body-Structure**:
+# **Lower_Body-Structure**:
 
 The lower body is mainly built from 20×40 aluminum profiles, providing a strong and robust base structure for the robot.
 A custom-shaped 19.2 V NiMH battery pack was specifically designed and 3D-printed to fit efficiently into the available space.
@@ -23,11 +23,19 @@ This layout enables a very low center of gravity, which improves overall stabili
 
 <img width="700" height="555" alt="Lowerbody" src="https://github.com/user-attachments/assets/dc225dc1-d2f2-4c86-b440-4b1d3ab72397" />
 
+## Battery
 
+## aluminum parts
+### long Alu profiles
+### short Alu profiles (front/back)
+### suspension mount profiles
 
+## wheels
+### wheels
+### rims
 <br><br>
 
-[Waveshare UGV-Suspension](https://www.waveshare.com/wiki/UGV_Suspension_(A)):
+### [Waveshare UGV-Suspension](https://www.waveshare.com/wiki/UGV_Suspension_(A)):
 
 The robot uses the Waveshare suspension system to improve terrain adaptability and maintain wheel contact on uneven surfaces.
 This passive suspension allows better force distribution across all wheels, increasing traction and stability in rough terrain.
@@ -37,11 +45,11 @@ While this improves obstacle handling, especially on uneven terrain, it is still
 
 <img width="700" height="525" alt="Waveshare_Suspension" src="https://github.com/user-attachments/assets/167d4213-5d03-4482-a3f2-472adbbdbb28" />
 
-
+## flipper
 
 <br><br>
 
-**Upper_Body-Structure**:
+# **Upper_Body-Structure**:
 
 The upper body serves as the central platform for all high-level components, including the NVIDIA Jetson Orin Nano Developer Kit, perception sensors such as the Intel RealSense D435 depth camera, and additional electronics.
 Structural stability is achieved using 20×20 aluminum profiles, providing a lightweight yet rigid frame.
@@ -53,7 +61,7 @@ The elevated placement improves sensor field of view and system organization, wh
 
 <br><br>
 
-**Manipulator Arm**:
+## **Manipulator Arm**:
 
 The manipulator arm is primarily composed of 3D-printed components, enabling rapid prototyping and easy customization.
 It is actuated using Waveshare ST3215 servos and equipped with a Waveshare gripper for object interaction.
@@ -61,3 +69,19 @@ To enable precise perception during manipulation tasks, multiple sensors are mou
 This setup allows the robot to detect and interact with objects in close proximity in a targeted and efficient manner.
 <img width="773" height="890" alt="Arm" src="https://github.com/user-attachments/assets/82a73261-ec0b-41cb-8917-b3727e566d5b" />
 
+### camera mount
+### gripper
+### connection plates
+### arm mount
+
+## aluminum parts
+### long profiles
+### short profiles (vertical)
+### base plate
+### corner brackets
+
+### bottom cover plates
+### top cover plate
+#### lidarhub mount
+
+### servo bus mount

@@ -29,18 +29,18 @@ The power supply for the robot is a custom-made 19.2V NiMH battery pack which
 
 ## Aluminum parts
 <img width="40%"  alt="image" src="https://github.com/user-attachments/assets/6aa255a5-6540-4cd9-9c1e-86c7b65404e8" />
+<img width="40%"  src="https://github.com/user-attachments/assets/1dfa8d8d-8d1d-4d82-b786-3bf435f516ed" />
 
-The profiles are connected via M5 screws that are screwed through corner brackets and inserted trapeze nuts.
+The profiles are connected using M5 screws, which are inserted through corner brackets and fastened into trapeze nuts inside the profile grooves. This creates a stable and adjustable connection between the aluminum profiles. The single parts, which are listed below are assembled as shown in the pictures. 
 
 ### Long Alu profiles
 
-| <img width="40%" src="https://github.com/user-attachments/assets/3807b3a9-54a5-4493-9b4e-2938a3f7051e" align="left" />  | mass: 30x4x2cm | 
-|---|---|
+<img width="40%" src="https://github.com/user-attachments/assets/3807b3a9-54a5-4493-9b4e-2938a3f7051e" align="left" />  The two long aluminium profiles, each measuring 300 × 40 × 20 mm, play a crucial role in ensuring the lateral stability of the overall structure. They act as key reinforcement elements that help prevent deformation and increase rigidity under load. However, to integrate proper cable management, both profiles require manual modification at two designated locations. These sections must be carefully notched out by hand during post-processing to create sufficient space for routing cables. Precision is important here, as the cut-outs need to maintain structural integrity while still allowing clean and functional cable guidance. 
+<br><br>
 
 ### Short Alu profiles 
-| <img width="40%"  src="https://github.com/user-attachments/assets/1646c334-f97c-44a2-97d9-06420042df53" align="left" />  | 12.3x2x2cm 8.3x2x2cm 9x2x2cm| 
-|---|---|
-### Suspension mount profiles
+<img width="40%" src="https://github.com/user-attachments/assets/3d85de4c-afb9-454a-96ff-c173712d2b03" align="left" />
+The shorter aluminium profiles are used for several specific structural and functional purposes within the assembly. One profile measures 123 × 40 × 20 mm and is installed as a transverse (crosswise) element. It functions as a front bumper component, absorbing impact and providing structural protection. In addition, there are three profiles with dimensions of 83 × 20 × 20 mm. These are also mounted transversely. They serve different roles within the mechanism, with the central one being essential for the installation of the flipper system. Finally, there are four profiles measuring 90 × 20 × 20 mm, which are mounted longitudinally. These elements act as mounting points for the suspension system. They provide the necessary attachment interface for the springs and help distribute mechanical loads evenly throughout the structure.
 
 ## Wheels
 ### Wheels

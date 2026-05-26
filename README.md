@@ -33,16 +33,13 @@ The power supply for the robot is a custom-made 19.2V NiMH battery pack which
 The profiles are connected via M5 screws that are screwed through corner brackets and inserted trapeze nuts.
 
 ### Long Alu profiles
-<img width="40%" alt="image" src="https://github.com/user-attachments/assets/3807b3a9-54a5-4493-9b4e-2938a3f7051e" /> 
-(30x4x2cm)
 
+| <img width="40%" src="https://github.com/user-attachments/assets/3807b3a9-54a5-4493-9b4e-2938a3f7051e" align="left" />  | mass: 30x4x2cm | 
+|---|---|
 
-### Short Alu profiles (front/back)
-<img width="40%"  alt="image" src="https://github.com/user-attachments/assets/1646c334-f97c-44a2-97d9-06420042df53" />
-(12.3x2x2cm)
-(8.3x2x2)
-(9x2x2cm)
-
+### Short Alu profiles 
+| <img width="40%"  src="https://github.com/user-attachments/assets/1646c334-f97c-44a2-97d9-06420042df53" align="left" />  | 12.3x2x2cm 8.3x2x2cm 9x2x2cm| 
+|---|---|
 ### Suspension mount profiles
 
 ## Wheels

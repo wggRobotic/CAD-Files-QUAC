@@ -24,15 +24,25 @@ This layout enables a very low center of gravity, which improves overall stabili
 <img width="700" height="555" alt="Lowerbody" src="https://github.com/user-attachments/assets/dc225dc1-d2f2-4c86-b440-4b1d3ab72397" />
 
 ## Battery
+The power supply for the robot is a custom-made 19.2V NiMH battery pack which 
+<img src="https://github.com/user-attachments/assets/ac27ae00-7ac8-4298-969a-0c92de542e03" width="50%"/>
 
-## aluminum parts
-### long Alu profiles
-### short Alu profiles (front/back)
-### suspension mount profiles
+## Aluminum parts
+<img width="40%"  alt="image" src="https://github.com/user-attachments/assets/6aa255a5-6540-4cd9-9c1e-86c7b65404e8" />
 
-## wheels
-### wheels
-### rims
+### Long Alu profiles
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/3807b3a9-54a5-4493-9b4e-2938a3f7051e" />
+
+
+### Short Alu profiles (front/back)
+<img width="40%"  alt="image" src="https://github.com/user-attachments/assets/1646c334-f97c-44a2-97d9-06420042df53" />
+
+
+### Suspension mount profiles
+
+## Wheels
+### Wheels
+### Rims
 <br><br>
 
 ### [Waveshare UGV-Suspension](https://www.waveshare.com/wiki/UGV_Suspension_(A)):
@@ -85,3 +95,5 @@ This setup allows the robot to detect and interact with objects in close proximi
 #### lidarhub mount
 
 ### servo bus mount
+
+## PCBs

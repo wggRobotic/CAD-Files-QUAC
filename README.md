@@ -96,9 +96,13 @@ The camera mount is a small 3d-printed plate that is necessary to atatch both th
 
 ## aluminum parts
 ### long profiles
+
+<img width="40%" src="https://github.com/user-attachments/assets/9a70c280-6737-491d-b4bf-fc5be021f89a" />
+
 ### short profiles (vertical)
-### base plate
 ### corner brackets
+### base plate
+
 
 ### bottom cover plates
 ### top cover plate

@@ -42,28 +42,28 @@ The profiles are connected using M5 screws, which are inserted through corner br
 <img width="40%" src="https://github.com/user-attachments/assets/3d85de4c-afb9-454a-96ff-c173712d2b03" align="left" />
 The shorter aluminium profiles are used for several specific structural and functional purposes within the assembly. One profile measures 123 × 40 × 20 mm and is installed as a transverse (crosswise) element. It functions as a front bumper component, absorbing impact and providing structural protection. In addition, there are three profiles with dimensions of 83 × 20 × 20 mm. These are also mounted transversely. They serve different roles within the mechanism, with the central one being essential for the installation of the flipper system. Finally, there are four profiles measuring 90 × 20 × 20 mm, which are mounted longitudinally. These elements act as mounting points for the suspension system. They provide the necessary attachment interface for the springs and help distribute mechanical loads evenly throughout the structure.
 
-## Wheels
+## Wheels & Rims
 Overcoming uneven terrain requires more than just power — it demands exceptional grip, stability, and precise control. To achieve this, we developed a set of custom-designed rims specifically engineered to integrate seamlessly with the [DDSM115 hub motors](https://github.com/wggRobotic/Team-Docs/wiki/4.-Quac-%E2%80%93-All-Terrain-Crawler#wheel-motors) and the selected wheel assemblies. By tailoring the rim geometry to both the motor interface and the tire specifications, we were able to maximize traction, improve load distribution, and ensure reliable performance across challenging surfaces such as gravel, dirt, grass, and rocky terrain.
 This custom solution not only enhances the vehicle’s ability to maintain stability on unpredictable ground, but also improves durability and overall driving confidence. The tight integration between the rims, hub motors, and wheels minimizes mechanical play and optimizes torque transfer, allowing the system to respond efficiently even under demanding off-road conditions.
-### Wheels
-<img width="40%" alt="IMG_2936" src="https://github.com/user-attachments/assets/4b19484b-3e7f-4ce7-b1a8-5903d8facbe6" />
+
+<img width="34%" alt="IMG_2936" src="https://github.com/user-attachments/assets/4b19484b-3e7f-4ce7-b1a8-5903d8facbe6" align="left" />
+<img width="40%" alt="IMG_2935" src="https://github.com/user-attachments/assets/689ddea6-2a44-4c56-b480-5cbdcd3a9f81"/>
 
 
-### Rims
-
-<img width="40%" alt="IMG_2935" src="https://github.com/user-attachments/assets/689ddea6-2a44-4c56-b480-5cbdcd3a9f81" />
 
 <br><br>
 
 ### [Waveshare UGV-Suspension](https://www.waveshare.com/wiki/UGV_Suspension_(A)):
-
+<img width="40%" alt="Waveshare_Suspension" src="https://github.com/user-attachments/assets/167d4213-5d03-4482-a3f2-472adbbdbb28" align="left"/>
 The robot uses the Waveshare suspension system to improve terrain adaptability and maintain wheel contact on uneven surfaces.
 This passive suspension allows better force distribution across all wheels, increasing traction and stability in rough terrain.
 
 We also experimented with custom springs, extending the suspension travel by approximately 2 cm.
 While this improves obstacle handling, especially on uneven terrain, it is still under evaluation as it slightly reduces lateral stability.
 
-<img width="700" height="525" alt="Waveshare_Suspension" src="https://github.com/user-attachments/assets/167d4213-5d03-4482-a3f2-472adbbdbb28" />
+
+<br><br>
+
 
 ## Flipper
 <img width="40%" src="https://github.com/user-attachments/assets/3af55b8b-20af-4682-9292-9e8bb0463f8e" />
@@ -98,7 +98,18 @@ This setup allows the robot to detect and interact with objects in close proximi
 
 The camera mount is a small 3d-printed plate that is necessary to atatch both the Intelrealsense and the thermal camera to the gripper. 
 
-### gripper
+### Gripper
+The custom gripper design was inspired by Festo’s bionic [Fin Ray gripper](https://www.youtube.com/watch?v=JAyPTIIpFiA). It utilizes a triangular structure based on the geometry of fish fins, which provides passive compliance. This flexibility allows the gripper to conform seamlessly to the contours of an object. Furthermore, the inherent flexing mechanism protects the servo motors from damage, preventing mechanical strain if the gripper over-closes.
+
+<img width="50%" alt="Gripper-A-Fisch v16" src="https://github.com/user-attachments/assets/431c462f-9136-4871-943b-17a5f320799e" />
+ 
+
+<img width="40%" alt="FischGripperBacke5FinnenFlach v7" src="https://github.com/user-attachments/assets/61ef3fad-5496-4e1f-96c8-3fcd966949ae" align="left"/>
+
+Through many iterations, we learned which geometric facts matter by constructing the gripper. It is important that the cross-connections are perpendicular to the angle bisector of the tip. Also, you can change the stiffness of the gripper with the number of cross-connections. We tried at first 7 cross-connections, which was too rigid. So we decreased them through many iterations and finished with the iteration with just 5 cross-connections, which seemed to be a nice compromise.
+
+<br><br>
+
 ### connection plates
 ### arm mount
 

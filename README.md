@@ -45,7 +45,7 @@ The shorter aluminium profiles are used for several specific structural and func
 ## Wheels & Rims
 <img width="34%" alt="IMG_2936" src="https://github.com/user-attachments/assets/4b19484b-3e7f-4ce7-b1a8-5903d8facbe6" align="left" />
 <img width="40%" alt="IMG_2935" src="https://github.com/user-attachments/assets/689ddea6-2a44-4c56-b480-5cbdcd3a9f81" />
-
+<br><br>
 Overcoming uneven terrain requires more than just power — it demands exceptional grip, stability, and precise control. To achieve this, we developed a set of custom-designed rims specifically engineered to integrate seamlessly with the [DDSM115 hub motors](https://github.com/wggRobotic/Team-Docs/wiki/4.-Quac-%E2%80%93-All-Terrain-Crawler#wheel-motors) and the selected wheel assemblies. By tailoring the rim geometry to both the motor interface and the tire specifications, we were able to maximize traction, improve load distribution, and ensure reliable performance across challenging surfaces such as gravel, dirt, grass, and rocky terrain.
 This custom solution not only enhances the vehicle’s ability to maintain stability on unpredictable ground, but also improves durability and overall driving confidence. The tight integration between the rims, hub motors, and wheels minimizes mechanical play and optimizes torque transfer, allowing the system to respond efficiently even under demanding off-road conditions.
 
@@ -72,7 +72,7 @@ While this improves obstacle handling, especially on uneven terrain, it is still
 ## Flipper
 <img width="40%" src="https://github.com/user-attachments/assets/3af55b8b-20af-4682-9292-9e8bb0463f8e" />
 <img width="36%" src="https://github.com/user-attachments/assets/81d0e3f3-e6a9-4ce5-892d-2e4980ccf305" />
-
+<br><br>
 The flipper mechanism consists of a single servo motor mounted to the central 83 × 20 × 20 mm aluminium profile using a metal clamp. On the other side it has two small steel ball bearings mounted via a 3d-printed part, which function as small additional wheels. Its primary purpose is to temporarily lift the robot by a few centimetres whenever it becomes stuck or obstructed. This allows the robot to free itself from obstacles or uneven terrain and improves overall mobility and reliability during operation.
 
 <br><br>
@@ -95,12 +95,16 @@ The manipulator arm is primarily composed of 3D-printed components, enabling rap
 It is actuated using Waveshare ST3215 servos and equipped with a Waveshare gripper for object interaction.
 To enable precise perception during manipulation tasks, multiple sensors are mounted directly on the gripper, including depth, thermal, and magnetic field sensing.
 This setup allows the robot to detect and interact with objects in close proximity in a targeted and efficient manner.
+
 <img width="773"  alt="Arm" src="https://github.com/user-attachments/assets/82a73261-ec0b-41cb-8917-b3727e566d5b" />
 
 ### Camera mount
-<img width="40%" src="https://github.com/user-attachments/assets/33f7db24-388b-4f4d-8967-0194cc6b7dd7" />
+<img width="40%" src="https://github.com/user-attachments/assets/a1b6f383-7b2a-4640-b64e-8ee4dd69a811" align="left" />
+<img width="40%"  src="https://github.com/user-attachments/assets/2cc44060-0e77-4ef3-ad3f-62780b761d6d" />
+
 
 The camera mount is a small 3d-printed plate that is necessary to atatch both the Intelrealsense and the thermal camera to the gripper. 
+<br><br>
 
 ### Gripper
 The custom gripper design was inspired by Festo’s bionic [Fin Ray gripper](https://www.youtube.com/watch?v=JAyPTIIpFiA). It utilizes a triangular structure based on the geometry of fish fins, which provides passive compliance. This flexibility allows the gripper to conform seamlessly to the contours of an object. Furthermore, the inherent flexing mechanism protects the servo motors from damage, preventing mechanical strain if the gripper over-closes.

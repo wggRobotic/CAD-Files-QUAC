@@ -138,6 +138,9 @@ The plate includes precisely machined mounting holes for attaching structural co
 
 
 ### Bottom cover plates
+<img width="40%" alt="bottom_cover_plates" src="https://github.com/user-attachments/assets/c0f34376-d220-4b9a-b499-64e8d355e7d5" align="left" />
+
+
 ### Top cover plate
 #### Lidarhub mount
 

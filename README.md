@@ -58,6 +58,7 @@ This custom solution not only enhances the vehicle’s ability to maintain stabi
 
 ### [Waveshare UGV-Suspension](https://www.waveshare.com/wiki/UGV_Suspension_(A)):
 <img width="40%" alt="Waveshare_Suspension" src="https://github.com/user-attachments/assets/167d4213-5d03-4482-a3f2-472adbbdbb28" align="left"/>
+
 The robot uses the Waveshare suspension system to improve terrain adaptability and maintain wheel contact on uneven surfaces.
 This passive suspension allows better force distribution across all wheels, increasing traction and stability in rough terrain.
 
@@ -65,7 +66,7 @@ We also experimented with custom springs, extending the suspension travel by app
 While this improves obstacle handling, especially on uneven terrain, it is still under evaluation as it slightly reduces lateral stability.
 
 
-<br><br>
+<br><br><br><br><br><br>
 
 
 ## Flipper

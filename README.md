@@ -139,7 +139,8 @@ The plate includes precisely machined mounting holes for attaching structural co
 
 ### Bottom cover plates
 <img width="40%" alt="bottom_cover_plates" src="https://github.com/user-attachments/assets/c0f34376-d220-4b9a-b499-64e8d355e7d5" align="left" />
-
+To achieve a cleaner and more professional appearance, black acrylic cover plates were added to conceal the PCB and wiring. Integrated cable openings allow the wires to be neatly routed to the individual components, improving cable management while maintaining easy access for maintenance.
+The covers are mounted using trapeze nuts inside the aluminum profiles together with countersunk screws, creating a secure and flush finish. Additionally, the design is divided into three separate sections, allowing modular access to the front, rear, and the centrally mounted Jetson module for easier maintenance and system integration.
 
 ### Top cover plate
 #### Lidarhub mount

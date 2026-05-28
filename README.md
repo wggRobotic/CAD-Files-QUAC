@@ -145,7 +145,10 @@ The covers are mounted using trapeze nuts inside the aluminum profiles together 
 ### Top cover plate
 <img width="40%" alt="Top_cover_plate" src="https://github.com/user-attachments/assets/db52777f-6a9c-45b2-b32e-4e07037c63de" align="left" />
 <img width="30%" alt="top_cover_plate_topdown" src="https://github.com/user-attachments/assets/ba01e86b-99ce-41ee-a075-b30ed14f1b69" />
-
+	
+The top cover functions as a protective roof structure mounted on top of the short aluminum profiles. It is securely fastened using M5 screws inserted into self-cut threads.
+Besides protecting the internal components, the cover also serves as the main mounting platform for the rear camera, LiDAR sensor, kill switch, and the LiDAR hub together with its mounting system. Positioning these components at a higher point on the robot significantly improves the field of view and sensor performance. It‘s especially important for the LiDAR, which is on 7mm ring elevation, and the camera for accurate mapping, environment detection, and autonomous navigation.
+To ensure durability during operation, the LiDAR sensor is additionally protected by a welded wire cage that shields it from impacts and external damage without obstructing its scanning capabilities
 
 #### Lidarhub mount
 

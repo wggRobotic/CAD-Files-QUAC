@@ -118,22 +118,28 @@ Through many iterations, we learned which geometric facts matter by constructing
 
 <br><br>
 
-### connection plates
-### arm mount
+### Connection plates
+### Arm mount
 
-## aluminum parts
-### long profiles
+## Aluminum parts
+### Profiles
+<img width="40%" src="https://github.com/user-attachments/assets/9a70c280-6737-491d-b4bf-fc5be021f89a" align="left" />
+The upper body frame is constructed from aluminium profiles and reinforced with corner brackets to ensure a lightweight yet stable structure.
+The two long horizontal profiles measure 300 × 20 × 20 mm and form the main supporting structure of the upper body. Mounted onto them are several vertical profiles measuring 60 × 20 × 20 mm, which provide additional rigidity and serve as mounting points for other components.
+Corner brackets are installed between the horizontal and vertical elements to strengthen the joints, improve stiffness, and maintain precise alignment throughout the frame.
+<br><br>
 
-<img width="40%" src="https://github.com/user-attachments/assets/9a70c280-6737-491d-b4bf-fc5be021f89a" />
+### Base plate
+<img width="50%"  alt="base_plate" src="https://github.com/user-attachments/assets/9a459aa7-ccb5-4802-8134-30ae9322fccd" align="left" />
+<img width="40%" alt="Zeichnung_Aluplatte_WGG" src="https://github.com/user-attachments/assets/8eaa1301-78a4-48b5-a0a6-b8fe71e946ba" />
 
-### short profiles (vertical)
-### corner brackets
-### base plate
+The baseplate was custom-manufactured by Dehn in cooperation with our team based on our technical design specifications. It is made from a 165 × 300 × 5 mm aluminium plate and forms the central structural foundation of the robot.
+The plate includes precisely machined mounting holes for attaching structural components as well as dedicated openings for cable routing, enabling clean and organized wiring throughout the system. Due to its thickness and material choice, the baseplate provides excellent rigidity and stability while still maintaining a relatively low weight. The exact dimensions and hole positions can be taken from the technical drawing.
 
 
-### bottom cover plates
-### top cover plate
-#### lidarhub mount
+### Bottom cover plates
+### Top cover plate
+#### Lidarhub mount
 
 ### servo bus & IMU mount
 

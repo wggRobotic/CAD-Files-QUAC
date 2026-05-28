@@ -143,6 +143,10 @@ To achieve a cleaner and more professional appearance, black acrylic cover plate
 The covers are mounted using trapeze nuts inside the aluminum profiles together with countersunk screws, creating a secure and flush finish. Additionally, the design is divided into three separate sections, allowing modular access to the front, rear, and the centrally mounted Jetson module for easier maintenance and system integration.
 
 ### Top cover plate
+<img width="40%" alt="Top_cover_plate" src="https://github.com/user-attachments/assets/db52777f-6a9c-45b2-b32e-4e07037c63de" align="left" />
+<img width="30%" alt="top_cover_plate_topdown" src="https://github.com/user-attachments/assets/ba01e86b-99ce-41ee-a075-b30ed14f1b69" />
+
+
 #### Lidarhub mount
 
 ### servo bus & IMU mount

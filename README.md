@@ -150,7 +150,6 @@ The top cover functions as a protective roof structure mounted on top of the sho
 Besides protecting the internal components, the cover also serves as the main mounting platform for the rear camera, LiDAR sensor, kill switch, and the LiDAR hub together with its mounting system. Positioning these components at a higher point on the robot significantly improves the field of view and sensor performance. It‘s especially important for the LiDAR, which is on 7mm ring elevation, and the camera for accurate mapping, environment detection, and autonomous navigation.
 To ensure durability during operation, the LiDAR sensor is additionally protected by a welded wire cage that shields it from impacts and external damage without obstructing its scanning capabilities
 
-#### Lidarhub mount
 
 ### servo bus & IMU mount
 

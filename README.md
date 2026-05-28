@@ -43,11 +43,14 @@ The profiles are connected using M5 screws, which are inserted through corner br
 The shorter aluminium profiles are used for several specific structural and functional purposes within the assembly. One profile measures 123 × 40 × 20 mm and is installed as a transverse (crosswise) element. It functions as a front bumper component, absorbing impact and providing structural protection. In addition, there are three profiles with dimensions of 83 × 20 × 20 mm. These are also mounted transversely. They serve different roles within the mechanism, with the central one being essential for the installation of the flipper system. Finally, there are four profiles measuring 90 × 20 × 20 mm, which are mounted longitudinally. These elements act as mounting points for the suspension system. They provide the necessary attachment interface for the springs and help distribute mechanical loads evenly throughout the structure.
 
 ## Wheels & Rims
+<img width="34%" alt="IMG_2936" src="https://github.com/user-attachments/assets/4b19484b-3e7f-4ce7-b1a8-5903d8facbe6" align="left" />
+<img width="40%" alt="IMG_2935" src="https://github.com/user-attachments/assets/689ddea6-2a44-4c56-b480-5cbdcd3a9f81" />
+
 Overcoming uneven terrain requires more than just power — it demands exceptional grip, stability, and precise control. To achieve this, we developed a set of custom-designed rims specifically engineered to integrate seamlessly with the [DDSM115 hub motors](https://github.com/wggRobotic/Team-Docs/wiki/4.-Quac-%E2%80%93-All-Terrain-Crawler#wheel-motors) and the selected wheel assemblies. By tailoring the rim geometry to both the motor interface and the tire specifications, we were able to maximize traction, improve load distribution, and ensure reliable performance across challenging surfaces such as gravel, dirt, grass, and rocky terrain.
 This custom solution not only enhances the vehicle’s ability to maintain stability on unpredictable ground, but also improves durability and overall driving confidence. The tight integration between the rims, hub motors, and wheels minimizes mechanical play and optimizes torque transfer, allowing the system to respond efficiently even under demanding off-road conditions.
 
-<img width="34%" alt="IMG_2936" src="https://github.com/user-attachments/assets/4b19484b-3e7f-4ce7-b1a8-5903d8facbe6" align="left" />
-<img width="40%" alt="IMG_2935" src="https://github.com/user-attachments/assets/689ddea6-2a44-4c56-b480-5cbdcd3a9f81"/>
+
+
 
 
 

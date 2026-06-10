@@ -99,11 +99,12 @@ This setup allows the robot to detect and interact with objects in close proximi
 <img width="773"  alt="Arm" src="https://github.com/user-attachments/assets/82a73261-ec0b-41cb-8917-b3727e566d5b" />
 
 ### Camera mount
-<img width="40%" src="https://github.com/user-attachments/assets/a1b6f383-7b2a-4640-b64e-8ee4dd69a811" align="left" />
-<img width="40%"  src="https://github.com/user-attachments/assets/2cc44060-0e77-4ef3-ad3f-62780b761d6d" />
+<img width="45%" alt="Kamera_Halterung v2" src="https://github.com/user-attachments/assets/4da4c7bf-7811-4a58-a1c3-3a21188fd1eb" align="left" />
+<img width="45%" alt="Kamera_Halterung v2 1" src="https://github.com/user-attachments/assets/c701ef10-67fa-4dab-b61c-86768d1c839a" />
 
+The camera mount is a small 3d-printed plate that is necessary to atatch both the Intelrealsense and the thermal camera to the gripper. The camera is off-centre because the Intel RealSense has its RGB camera on the left. Therefore, slightly off-centring the camera gives us a better view of the gripper and a more centred view of our surroundings from the robot's perspective. 
 
-The camera mount is a small 3d-printed plate that is necessary to atatch both the Intelrealsense and the thermal camera to the gripper. 
+otherwise the camera wouldn't be able to see anything
 <br><br>
 
 ### Gripper

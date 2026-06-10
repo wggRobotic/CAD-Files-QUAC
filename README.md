@@ -153,6 +153,9 @@ To ensure durability during operation, the LiDAR sensor is additionally protecte
 
 ### servo bus & IMU mount
 
+
+### side cover
+
 ## PCBs
 
 | Name | Beschreibung | Status |

@@ -150,15 +150,15 @@ Besides protecting the internal components, the cover also serves as the main mo
 To ensure durability during operation, the LiDAR sensor is additionally protected by a welded wire cage that shields it from impacts and external damage without obstructing its scanning capabilities
 
 
+### Side cover
+<img width="40%" alt="side_cover" src="https://github.com/user-attachments/assets/5998cc23-90d7-4c89-b07f-7278a90a73e2" align="left"/>
+<img width="55%"  alt="HexagonAbdeckung v3" src="https://github.com/user-attachments/assets/3173291c-2f3d-4a27-a2eb-cf2b2920341c" />
+
+The side cover is a custom-designed and 3D-printed panel mounted to the sides of the robot. Its primary purpose is to protect the internal components from external impacts and debris while maintaining sufficient airflow through the chassis. A honeycomb-shaped cut-out pattern has been integrated into the design to maximize ventilation and improve cooling performance. This allows air to circulate freely through the robot, helping to prevent heat buildup around the electronics and other components. The cover is attached to the aluminium frame using 5 × 5 mm permanent magnets, allowing it to be installed and removed quickly without the need for tools. In addition to its protective function, the side cover improves the overall appearance of the robot and conceals internal components such as cables, electronics, and mounting hardware. This results in a cleaner, more professional design while keeping the interior organized and protected.
+
+
 ### servo bus & IMU mount
 
 
-### side cover
-
 ## PCBs
 
-| Name | Beschreibung | Status |
-|---|---|---|
-| Idefix | Quadruped-Roboter | in Arbeit |
-| N10 | Rover | getestet |
-| Quac | Crawler | geplant |

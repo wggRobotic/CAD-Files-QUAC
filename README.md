@@ -103,8 +103,6 @@ This setup allows the robot to detect and interact with objects in close proximi
 <img width="45%" alt="Kamera_Halterung v2 1" src="https://github.com/user-attachments/assets/c701ef10-67fa-4dab-b61c-86768d1c839a" />
 
 The camera mount is a small 3d-printed plate that is necessary to atatch both the Intelrealsense and the thermal camera to the gripper. The camera is off-centre because the Intel RealSense has its RGB camera on the left. Therefore, slightly off-centring the camera gives us a better view of the gripper and a more centred view of our surroundings from the robot's perspective. 
-
-otherwise the camera wouldn't be able to see anything
 <br><br>
 
 ### Gripper

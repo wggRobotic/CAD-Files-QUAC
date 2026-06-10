@@ -6,7 +6,8 @@ The file QUAC_fullbild shows the complete assembly of the robot and serves as a 
 
 The full assembly is illustrated below:
 
-<img src="https://github.com/user-attachments/assets/ec49fdd4-b157-44e3-a749-89fc4d332dfb" width="80%">
+<img width="80%"  alt="full_build_v6_new" src="https://github.com/user-attachments/assets/2b1044f6-1d88-423e-8238-219fc949bf8b" />
+
 
 Note that the exact appearance may vary slightly depending on revisions or updates to individual parts.
 

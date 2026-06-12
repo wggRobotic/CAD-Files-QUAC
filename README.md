@@ -78,6 +78,14 @@ The flipper mechanism consists of a single servo motor mounted to the central 83
 
 <br><br>
 
+## Front camera mount
+
+<img width="40%"  alt="stoßstange2" src="https://github.com/user-attachments/assets/fc284cca-5866-4a4a-8b01-640b04520466" align="left"/>
+<img width="55%"  alt="stoßstange" src="https://github.com/user-attachments/assets/6f3196a6-80d2-48a0-9413-a64c6b44b428" />
+<br><br>
+
+The front module was originally intended to serve as a bumper. However, the metal bumper was replaced by a custom 3D-printed housing that accommodates an additional permanently mounted camera. Unlike the camera mounted on the robotic arm, this camera remains fixed relative to the chassis and does not move with the arm. This provides a stable external viewpoint that can be used to monitor the arm's position and movement during operation, improving situational awareness and supporting debugging or autonomous tasks. The housing also serves as a mounting platform for additional electronics. An IMU (Inertial Measurement Unit) is mounted on top to provide orientation and motion data, while the servo controller board is installed alongside it to manage the robot's servo-driven mechanisms. By integrating these components into a single compact assembly, the module combines sensing, control, and vision functionality while maintaining a clean and organized design.
+
 # **Upper_Body-Structure**:
 
 The upper body serves as the central platform for all high-level components, including the NVIDIA Jetson Orin Nano Developer Kit, perception sensors such as the Intel RealSense D435 depth camera, and additional electronics.
@@ -118,7 +126,6 @@ Through many iterations, we learned which geometric facts matter by constructing
 
 <br><br>
 
-### Connection plates
 ### Arm mount
 
 ## Aluminum parts

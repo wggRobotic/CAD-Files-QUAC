@@ -127,6 +127,13 @@ Through many iterations, we learned which geometric facts matter by constructing
 <br><br>
 
 ### Arm mount
+<img width="50%" alt="Verankerung_rechts v1" src="https://github.com/user-attachments/assets/8a037a25-b69e-4940-a02b-293821cf9dca" align="left" />
+<img width="30%" alt="arm_mount" src="https://github.com/user-attachments/assets/f20790f2-22b9-410a-82e4-c88602af428b" />
+<br><br>
+
+The arm mount is a custom 3D-printed component that serves as the primary interface between the robotic arm and the crawler chassis. It securely attaches the arm to the robot's structure while ensuring proper alignment and load transfer during operation. To improve cable management, the mount incorporates a dedicated routing notch that allows the motor cables to pass through the component in a controlled manner. This protects the cables from excessive bending, reduces the risk of snagging, and contributes to a cleaner overall assembly. By combining structural support and cable routing in a single part, the arm mount simplifies the design and improves reliability.
+
+
 
 ## Aluminum parts
 ### Profiles
@@ -163,10 +170,3 @@ To ensure durability during operation, the LiDAR sensor is additionally protecte
 <img width="55%"  alt="HexagonAbdeckung v3" src="https://github.com/user-attachments/assets/3173291c-2f3d-4a27-a2eb-cf2b2920341c" />
 
 The side cover is a custom-designed and 3D-printed panel mounted to the sides of the robot. Its primary purpose is to protect the internal components from external impacts and debris while maintaining sufficient airflow through the chassis. A honeycomb-shaped cut-out pattern has been integrated into the design to maximize ventilation and improve cooling performance. This allows air to circulate freely through the robot, helping to prevent heat buildup around the electronics and other components. The cover is attached to the aluminium frame using 5 × 5 mm permanent magnets, allowing it to be installed and removed quickly without the need for tools. In addition to its protective function, the side cover improves the overall appearance of the robot and conceals internal components such as cables, electronics, and mounting hardware. This results in a cleaner, more professional design while keeping the interior organized and protected.
-
-
-### servo bus & IMU mount
-
-
-## PCBs
-

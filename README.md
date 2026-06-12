@@ -97,7 +97,7 @@ It is actuated using Waveshare ST3215 servos and equipped with a Waveshare gripp
 To enable precise perception during manipulation tasks, multiple sensors are mounted directly on the gripper, including depth, thermal, and magnetic field sensing.
 This setup allows the robot to detect and interact with objects in close proximity in a targeted and efficient manner.
 
-<img width="40%"  alt="Arm" src="https://github.com/user-attachments/assets/82a73261-ec0b-41cb-8917-b3727e566d5b" />
+<img alt="ARM" src="https://github.com/user-attachments/assets/43ba83d7-85c7-4e0f-9475-54e20b804297" width="700" />
 
 ### Camera mount
 <img width="45%" alt="Kamera_Halterung v2" src="https://github.com/user-attachments/assets/4da4c7bf-7811-4a58-a1c3-3a21188fd1eb" align="left" />

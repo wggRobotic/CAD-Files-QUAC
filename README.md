@@ -25,7 +25,11 @@ This layout enables a very low center of gravity, which improves overall stabili
 <img width="700" alt="Lowerbody" src="https://github.com/user-attachments/assets/dc225dc1-d2f2-4c86-b440-4b1d3ab72397" />
 
 ## Battery
-The power supply for the robot is a custom-made 19.2V NiMH battery pack which 
+The robot uses a custom-built NiMH battery pack with 16 FDK HR-4/3FAU NiMH Cell cells, each rated at 1.2 V and 4.5 Ah, resulting in a nominal pack voltage of 19.2 V. Fully charged, the pack reaches nearly 23 V and typically powers the robot for over 90 minutes until the voltage drops to about 19.5 V.
+
+The cells were connected by spot welding, and a 6.8 kΩ B57164-K682-J NTC Thermistor NTC sensor was integrated for charging and temperature monitoring. Power is supplied through a robust 3-pin Molex Mega-Fit Connector connector.
+
+The battery pack was designed to be compact, space-efficient, and evenly balanced to improve driving stability.
 <img src="https://github.com/user-attachments/assets/ac27ae00-7ac8-4298-969a-0c92de542e03" width="50%"/>
 
 ## Aluminum parts
